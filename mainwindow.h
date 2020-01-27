@@ -16,9 +16,9 @@ along with KSTM.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QtWidgets/QMainWindow>
+#include <QMainWindow>
 #include "core.h"
-#include <QtWidgets/QSystemTrayIcon>
+#include <QSystemTrayIcon>
 #include <QList>
 #include <QProcess>
 

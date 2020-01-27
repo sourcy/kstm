@@ -16,7 +16,7 @@ along with KSTM.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef MODIFYDIALOG_H
 #define MODIFYDIALOG_H
 
-#include <QtWidgets/QDialog>
+#include <QDialog>
 #include "core.h"
 #include <QList>
 

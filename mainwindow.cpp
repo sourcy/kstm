@@ -17,7 +17,7 @@ along with KSTM.  If not, see <http://www.gnu.org/licenses/>.
 #include "modifydialog.h"
 #include "aboutdialog.h"
 #include "ui_mainwindow.h"
-#include <QtWidgets/QMessageBox>
+#include <QMessageBox>
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), ui(new Ui::MainWindowClass)
 {

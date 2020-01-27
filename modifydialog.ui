@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>474</width>
-    <height>238</height>
+    <height>269</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -299,6 +299,18 @@
    </property>
   </action>
  </widget>
+ <tabstops>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>lineEdit_tunnel</tabstop>
+  <tabstop>lineEdit_hostname</tabstop>
+  <tabstop>spinBox_port</tabstop>
+  <tabstop>lineEdit_username</tabstop>
+  <tabstop>checkBox_remote</tabstop>
+  <tabstop>listWidget_tunnels</tabstop>
+  <tabstop>buttonAdd</tabstop>
+  <tabstop>buttonDelete</tabstop>
+  <tabstop>buttonEdit</tabstop>
+ </tabstops>
  <resources>
   <include location="icons.qrc"/>
  </resources>
@@ -394,8 +406,8 @@
      <y>84</y>
     </hint>
     <hint type="destinationlabel">
-     <x>425</x>
-     <y>181</y>
+     <x>-1</x>
+     <y>-1</y>
     </hint>
    </hints>
   </connection>

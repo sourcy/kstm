@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>264</width>
-    <height>209</height>
+    <height>225</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -142,6 +142,13 @@
    </item>
   </layout>
  </widget>
+ <tabstops>
+  <tabstop>lineEdit_alias</tabstop>
+  <tabstop>comboBox_type</tabstop>
+  <tabstop>spinBox_port</tabstop>
+  <tabstop>lineEdit_hostname</tabstop>
+  <tabstop>spinBox_toPort</tabstop>
+ </tabstops>
  <resources/>
  <connections>
   <connection>

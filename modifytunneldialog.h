@@ -16,8 +16,8 @@ along with KSTM.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef MODIFYTUNNELDIALOG_H
 #define MODIFYTUNNELDIALOG_H
 
-#include <QtWidgets/QDialog>
-#include <QtWidgets/QMessageBox>
+#include <QDialog>
+#include <QMessageBox>
 #include "core.h"
 
 namespace Ui {

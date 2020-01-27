@@ -16,7 +16,7 @@ along with KSTM.  If not, see <http://www.gnu.org/licenses/>.
 #ifndef ABOUTDIALOG_H
 #define ABOUTDIALOG_H
 
-#include <QtWidgets/QDialog>
+#include <QDialog>
 
 namespace Ui {
     class aboutDialog;
